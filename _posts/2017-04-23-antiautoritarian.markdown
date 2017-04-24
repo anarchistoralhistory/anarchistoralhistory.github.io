@@ -8,7 +8,7 @@ file_itunes: https://archive.org/download/1stAnnualNycAnarchistBookFair2007Anti-
 excerpt: This workshop will explore anti-authoritarian approaches to conflict resolution and transformation, and will take a look at methods like mediation and restorative justice from an anarchist standpoint. While we will consider the long-term relevance of these options (replacing functions currently carried out by the state "after the revolution"), our main focus will be on strategies we can use immediately to resolve disputes within our personal and political communities, and to begin to decrease our dependence on the state for intervention in the aftermath of harm. We'll talk about the anarchist theoretical context for these strategies and about practical next steps in our communities for meeting our own conflict resolution and transformation needs.
 summary: This workshop will explore anti-authoritarian approaches to conflict resolution and transformation, and will take a look at methods like mediation and restorative justice from an anarchist standpoint. While we will consider the long-term relevance of these options (replacing functions currently carried out by the state "after the revolution"), our main focus will be on strategies we can use immediately to resolve disputes within our personal and political communities, and to begin to decrease our dependence on the state for intervention in the aftermath of harm. We'll talk about the anarchist theoretical context for these strategies and about practical next steps in our communities for meeting our own conflict resolution and transformation needs.
 duration: "1:18:02"
-length: "3570000"
+length: "37460673"
 explicit: "no"
 block: "no"
 ---

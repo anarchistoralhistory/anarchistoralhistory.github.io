@@ -7,8 +7,8 @@ file: https://archive.org/download/1stAnnualNycAnarchistBookFair2007RememberingS
 file_itunes: https://archive.org/download/1stAnnualNycAnarchistBookFair2007RememberingSpainRememberingHeroes/remembering_spain_remembering_heroes_64kb.mp3
 excerpt: Moe Fishman and George Sossenko will talk about "us, the Anarchists," -- the only dedicated organization honestly caring about the working class, and also give some examples from my Spanish experience, where entire towns were ran by Anarchists, with order, and efficiency with our libertarian spirit and concern.
 summary: Moe Fishman and George Sossenko will talk about "us, the Anarchists," -- the only dedicated organization honestly caring about the working class, and also give some examples from my Spanish experience, where entire towns were ran by Anarchists, with order, and efficiency with our libertarian spirit and concern.
-duration: "1:18:02"
-length: "3160000"
+duration: "1:08:56"
+length: "33093795"
 explicit: "no"
 block: "no"
 ---
