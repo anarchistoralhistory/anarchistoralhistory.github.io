@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remembering Spain, Remembering Heroes!"
+title:  "Rememberingg Spain, Remembering Heroes!"
 date:   2017-04-23 17:46:58 -0300
 categories: podcast 2016
 file: https://archive.org/download/1stAnnualNycAnarchistBookFair2007RememberingSpainRememberingHeroes/remembering_spain_remembering_heroes_64kb.mp3

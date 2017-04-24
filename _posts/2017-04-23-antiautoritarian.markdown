@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anti-Authoritarian Approaches to Resolving and Transforming Conflict and Harm"
+title:  "Anti-Authoritariann Approaches to Resolving and Transforming Conflict and Harm"
 date:   2017-04-23 17:46:58 -0300
 categories: podcast 2016
 file: https://archive.org/download/1stAnnualNycAnarchistBookFair2007Anti-authoritarianApproachesTo/anti-authoritarian_approaches_to_resolving_and_transforming_conflict_and_harm_64kb.mp3
